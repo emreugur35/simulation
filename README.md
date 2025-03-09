@@ -30,3 +30,6 @@ Veritabanı tablolarını oluşturmak ve örnek verilerle doldurmak için:
 
 ### Sunucuyu başlat
 ```php artisan serve```
+
+### Erişim
+```http://localhost:8000/```
